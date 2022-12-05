@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955869688039",
+    "firebase_url": "https://delicious-delivery-7ff4a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "delicious-delivery-7ff4a",
+    "storage_bucket": "delicious-delivery-7ff4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955869688039:android:14c1fa83e383d0fb2e7242",
+        "android_client_info": {
+          "package_name": "com.jaooooo.order_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955869688039-asd8ch6cdjpf3to3jpmbv5t9ech8ucsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQr1EMIkzfDG-NvAqwi3Rb0EYiBuZCvTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955869688039-asd8ch6cdjpf3to3jpmbv5t9ech8ucsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
